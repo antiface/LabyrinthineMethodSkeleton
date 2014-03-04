@@ -1,4 +1,4 @@
 Other
 =====
 * [Senseless] (https://github.com/antiface/LabyrinthineMethodSkeleton/tree/master/OTHER/Senseless)
-* Skeletal
+* [Skeletal] (https://github.com/antiface/LabyrinthineMethodSkeleton/tree/master/OTHER/Skeletal)
